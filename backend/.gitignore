@@ -1,0 +1,4 @@
+/node_modules
+/.env
+/devtownMockData.json
+/package-lock.json
